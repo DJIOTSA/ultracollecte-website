@@ -1,0 +1,104 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "products": "Produits",
+    "services": "Services",
+    "about": "À propos",
+    "contact": "Contact",
+    "language": "Langue"
+  },
+  "hero": {
+    "title": "Solutions Fintech Innovantes pour l'Afrique",
+    "subtitle": "Ultrasoft développe des solutions technologiques financières de pointe qui permettent aux entreprises et aux particuliers à travers l'Afrique d'atteindre leurs objectifs financiers.",
+    "cta": "Découvrir Nos Solutions",
+    "learnMore": "En Savoir Plus"
+  },
+  "products": {
+    "title": "Nos Produits",
+    "subtitle": "Des solutions fintech complètes conçues pour le marché africain",
+    "ultracollecte": {
+      "title": "UltraCollecte",
+      "description": "Solution digitale de collecte journalière pour les institutions de microfinance. Automatisez le suivi des remboursements et optimisez vos opérations.",
+      "features": ["Synchronisation temps réel", "Applications mobiles", "Rapports avancés", "Sécurité bancaire"]
+    },
+    "auboulot": {
+      "title": "AuBoulot",
+      "description": "Plateforme de réseautage professionnel et de mise en relation emploi connectant les talents aux opportunités à travers l'Afrique.",
+      "features": ["Matching intelligent", "Profils professionnels", "Évaluation des compétences", "Développement de carrière"]
+    },
+    "paymentSolutions": {
+      "title": "Solutions de Paiement",
+      "description": "Solutions de traitement de paiement sécurisées et fiables pour les entreprises de toutes tailles.",
+      "features": ["Support multi-devises", "Paiements mobiles", "Intégration API", "Protection contre la fraude"]
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Services fintech de bout en bout pour accélérer votre transformation digitale",
+    "consulting": {
+      "title": "Conseil Fintech",
+      "description": "Orientation stratégique pour la transformation digitale des services financiers"
+    },
+    "development": {
+      "title": "Développement Sur Mesure",
+      "description": "Solutions fintech personnalisées construites selon vos exigences spécifiques"
+    },
+    "integration": {
+      "title": "Intégration Système",
+      "description": "Intégration transparente avec les systèmes bancaires et financiers existants"
+    },
+    "support": {
+      "title": "Support 24/7",
+      "description": "Support technique et services de maintenance disponibles 24h/24"
+    }
+  },
+  "about": {
+    "title": "À propos d'Ultrasoft",
+    "subtitle": "Leader de l'innovation fintech en Afrique depuis 2018",
+    "description": "Ultrasoft est une entreprise fintech pionnière dédiée au développement de solutions technologiques financières innovantes pour le marché africain. Nous combinons une connaissance approfondie du marché local avec une technologie de pointe pour créer des produits qui servent véritablement les besoins des entreprises et consommateurs africains.",
+    "mission": "Notre Mission",
+    "missionText": "Démocratiser l'accès aux services financiers à travers l'Afrique grâce à des solutions technologiques innovantes.",
+    "vision": "Notre Vision",
+    "visionText": "Devenir la plateforme fintech leader connectant tout l'écosystème financier africain.",
+    "values": "Nos Valeurs",
+    "innovation": "Innovation",
+    "innovationText": "Repousser continuellement les limites du possible dans la fintech",
+    "integrity": "Intégrité",
+    "integrityText": "Construire la confiance par la transparence et les pratiques commerciales éthiques",
+    "impact": "Impact",
+    "impactText": "Créer un changement significatif dans la vie financière des gens"
+  },
+  "stats": {
+    "clients": "Clients Actifs",
+    "transactions": "Transactions Traitées",
+    "countries": "Pays Desservis",
+    "uptime": "Disponibilité Système"
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Prêt à transformer vos opérations financières ? Discutons de la façon dont nous pouvons vous aider.",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "email": "Email",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "company": "Entreprise",
+      "message": "Message",
+      "send": "Envoyer le Message",
+      "success": "Merci pour votre message. Nous vous répondrons bientôt !"
+    }
+  },
+  "footer": {
+    "description": "Ultrasoft est une entreprise fintech leader développant des solutions innovantes pour le marché africain.",
+    "products": "Produits",
+    "services": "Services",
+    "company": "Entreprise",
+    "support": "Support",
+    "legal": "Légal",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Politique des Cookies",
+    "rights": "Tous droits réservés."
+  }
+}

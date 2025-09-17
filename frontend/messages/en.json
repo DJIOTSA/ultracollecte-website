@@ -1,0 +1,104 @@
+{
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "Innovative Fintech Solutions for Africa",
+    "subtitle": "Ultrasoft develops cutting-edge financial technology solutions that empower businesses and individuals across Africa to achieve their financial goals.",
+    "cta": "Discover Our Solutions",
+    "learnMore": "Learn More"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Comprehensive fintech solutions designed for the African market",
+    "ultracollecte": {
+      "title": "UltraCollecte",
+      "description": "Digital daily collection solution for microfinance institutions. Automate repayment tracking and optimize your operations.",
+      "features": ["Real-time synchronization", "Mobile applications", "Advanced reporting", "Bank-level security"]
+    },
+    "auboulot": {
+      "title": "AuBoulot",
+      "description": "Professional networking and job matching platform connecting talent with opportunities across Africa.",
+      "features": ["Smart matching", "Professional profiles", "Skills assessment", "Career development"]
+    },
+    "paymentSolutions": {
+      "title": "Payment Solutions",
+      "description": "Secure and reliable payment processing solutions for businesses of all sizes.",
+      "features": ["Multi-currency support", "Mobile payments", "API integration", "Fraud protection"]
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "End-to-end fintech services to accelerate your digital transformation",
+    "consulting": {
+      "title": "Fintech Consulting",
+      "description": "Strategic guidance for digital transformation in financial services"
+    },
+    "development": {
+      "title": "Custom Development",
+      "description": "Tailored fintech solutions built to your specific requirements"
+    },
+    "integration": {
+      "title": "System Integration",
+      "description": "Seamless integration with existing banking and financial systems"
+    },
+    "support": {
+      "title": "24/7 Support",
+      "description": "Round-the-clock technical support and maintenance services"
+    }
+  },
+  "about": {
+    "title": "About Ultrasoft",
+    "subtitle": "Leading fintech innovation in Africa since 2018",
+    "description": "Ultrasoft is a pioneering fintech company dedicated to developing innovative financial technology solutions for the African market. We combine deep local market knowledge with cutting-edge technology to create products that truly serve the needs of African businesses and consumers.",
+    "mission": "Our Mission",
+    "missionText": "To democratize access to financial services across Africa through innovative technology solutions.",
+    "vision": "Our Vision",
+    "visionText": "To become the leading fintech platform connecting all of Africa's financial ecosystem.",
+    "values": "Our Values",
+    "innovation": "Innovation",
+    "innovationText": "Continuously pushing the boundaries of what's possible in fintech",
+    "integrity": "Integrity",
+    "integrityText": "Building trust through transparency and ethical business practices",
+    "impact": "Impact",
+    "impactText": "Creating meaningful change in people's financial lives"
+  },
+  "stats": {
+    "clients": "Active Clients",
+    "transactions": "Transactions Processed",
+    "countries": "Countries Served",
+    "uptime": "System Uptime"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Ready to transform your financial operations? Let's discuss how we can help.",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "company": "Company",
+      "message": "Message",
+      "send": "Send Message",
+      "success": "Thank you for your message. We'll get back to you soon!"
+    }
+  },
+  "footer": {
+    "description": "Ultrasoft is a leading fintech company developing innovative solutions for the African market.",
+    "products": "Products",
+    "services": "Services",
+    "company": "Company",
+    "support": "Support",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "rights": "All rights reserved."
+  }
+}
