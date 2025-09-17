@@ -38,7 +38,7 @@ const packages = [
       'Mode hors ligne complet',
       'Support et assistance standard',
       'Contrôle / limitation des collectes',
-      'Retrait d'argent depuis collecteur',
+      'Retrait d\'argent depuis collecteur',
       'Gestion des collecteurs',
       'Tableaux de bord personnalisés',
     ],
